@@ -1,0 +1,7 @@
+Sure, Sam! Here's a simple Python code that prints "Hello World":
+
+```python
+print("Hello World")
+```
+
+You can run this code and it will display "Hello World" in the console. Let me know if you need any further assistance!
